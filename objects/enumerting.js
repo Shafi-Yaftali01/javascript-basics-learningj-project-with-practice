@@ -39,4 +39,3 @@ if ('radius' in circle) {
 // Prints "Circle has a radius" if the property exists.
 
 // You can use these techniques to enumerate and inspect object properties depending on your needs.
-
